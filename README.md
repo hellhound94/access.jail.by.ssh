@@ -13,3 +13,9 @@ Quando o cliente lhe fornecer o terminal do servidor entre com:
 
 sudo iocage console JailName
 
+em JailName coloque o nome do Jail.
+Ele pode pedir a senha novamente.
+Feito!!!
+
+# Contato
+abnercordeiro@outlook.com
